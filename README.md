@@ -39,3 +39,6 @@
 #### There is my new main [Discord Server](https://discord.gg/tY2XfKRAdb)
 
 ----------------------------------------------------------------------
+<div align="center">  
+    
+#### Proxy scraper source: https://github.com/NightfallGT/X-Proxy 
