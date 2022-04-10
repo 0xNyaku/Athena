@@ -34,6 +34,13 @@
 ----------------------------------------------------------------------
 <div align="center">   
     
+### 🕹️Support🕹️
+    
+#### There is my new main [Discord Server](https://discord.gg/tY2XfKRAdb)
+
+----------------------------------------------------------------------
+<div align="center">   
+    
 ### 📌Fork📌
     
 #### Nop
