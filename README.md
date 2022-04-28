@@ -6,7 +6,7 @@
 ----------------------------------------------------------------------
 <div align="center">
 
-### 🔥Athena🔥
+### 🔥Athena🔥 (PATCHED)
     
 #### Athena is a very powerful TikTok share bot that give 1000 shares in 10sec.
 #### Do not hesitate to buy the one from [billythegoat356](https://github.com/billythegoat356), it is X20 faster than this one [discord.gg/plague](https://discord.gg/plague)
